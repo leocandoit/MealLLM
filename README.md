@@ -1,2 +1,5 @@
 # MealLLM
 点餐意图识别
+点餐意图识别 
+1.main_FDireredaed_dpsk.py是小红书语音识别+DeepseekLLM7B本地推理部署后结果output 
+2.menumatch.py是将1中output通过llamaindex进行语义相似性匹配后菜单内容并更新output
